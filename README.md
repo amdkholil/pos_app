@@ -6,6 +6,7 @@
 ![4.png!](https://raw.githubusercontent.com/amdkholil/pos_app/master/ss/4.png "4.png")
 ![6.png!](https://raw.githubusercontent.com/amdkholil/pos_app/master/ss/6.png "6.png")
 ![5.png!](https://raw.githubusercontent.com/amdkholil/pos_app/master/ss/5.png "5.png")
+![db_design.png!](https://raw.githubusercontent.com/amdkholil/pos_app/master/ss/db_design.png "DB_Design")
 
 ## Requirment
 
